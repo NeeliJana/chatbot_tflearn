@@ -107,5 +107,11 @@
             "responses": ["Software develper", "Highradius Corporation","My team","Manager","Yes"],
             "context_set": ""
         },
+        {
+            "tag": "sense",
+            "patterns": ["What are all the six senses?", "Why should one follow senses","Who has a good personality?","Is having all th esenses good?","How does a sense relate to someones personalitry?", "What is a common sense"],
+            "responses": ["6 senses", "listen, see, talk, walk, react, smell","There are more than 6 senses if we delve deper","There is no restriction in having more than 6 senses","Yes, may be", "No, may be not"],
+            "context_set": ""
+        }
     ]
 }
